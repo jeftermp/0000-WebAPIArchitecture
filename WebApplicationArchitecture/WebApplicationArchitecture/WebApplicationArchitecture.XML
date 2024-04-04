@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WebApplicationArchitecture</name>
+    </assembly>
+    <members>
+        <member name="M:WebApplicationArchitecture.Controllers.BookController.GetAll">
+            <summary>
+            Busca de livros em repositório
+            </summary>
+            <response code="200">Busca todos livros</response>
+            <response code="500">Retorna um Erro interno</response>  
+        </member>
+    </members>
+</doc>
