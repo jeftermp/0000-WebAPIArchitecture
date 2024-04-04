@@ -21,7 +21,7 @@ API that was created to demonstrate a full data cycle and good practices for dev
 
   
 1. Clone the repository:
-- git clone https://github.com/yourusername/dotnet-book-api.git
+- git clone https://github.com/jeftermp/0000-WebAPIArchitecture/
 
 2. Set up the database connection in appsettings.json:
 {
